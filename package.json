@@ -1,0 +1,25 @@
+{
+  "name": "netjs",
+  "version": "1.0.0",
+  "description": "This is a Workshop about NestJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jucer74/nestjs-workshop-2018.git"
+  },
+  "keywords": [
+    "api",
+    "dojo",
+    "practice",
+    "NestJS"
+  ],
+  "author": "Julio Robles - jucer74@hotmail.com jucer74",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jucer74/nestjs-workshop-2018/issues"
+  },
+  "homepage": "https://github.com/Jucer74/nestjs-workshop-2018#readme"
+}
