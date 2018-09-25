@@ -1,4 +1,4 @@
-export interface IBook extends Document {
+export interface IBook {
   createdAt: Date;
   name: string;
   genre: string;
